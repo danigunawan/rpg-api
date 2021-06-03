@@ -2,8 +2,8 @@
 # https://docs.docker.com/engine/userguide/eng-image/multistage-build/
 FROM gobuffalo/buffalo:v0.16.9 as builder
 
-RUN mkdir -p $GOPATH/src/github.com/wyntre
-WORKDIR $GOPATH/src/github.com/wyntre
+RUN mkdir -p $GOPATH/https://github.com/danigunawan
+WORKDIR $GOPATH/https://github.com/danigunawan
 
 ADD . .
 ENV GO111MODULE=on

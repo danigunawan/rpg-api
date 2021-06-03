@@ -14,7 +14,7 @@ import (
 	"github.com/gobuffalo/pop/v5"
 	"github.com/gobuffalo/validate/v3"
 	"github.com/pkg/errors"
-	"github.com/wyntre/rpg_api/models"
+	"github.com/danigunawan/rpg-api/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

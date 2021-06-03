@@ -3,7 +3,7 @@ package actions
 import (
 	"net/http"
 
-	"github.com/wyntre/rpg_api/models"
+	"github.com/danigunawan/rpg-api/models"
 )
 
 type CharactersListResponse struct {

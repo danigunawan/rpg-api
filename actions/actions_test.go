@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/gobuffalo/suite/v3"
-	"github.com/wyntre/rpg_api/models"
+	"github.com/danigunawan/rpg-api/models"
 )
 
 type ActionSuite struct {

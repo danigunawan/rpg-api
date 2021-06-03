@@ -2,7 +2,7 @@ package grifts
 
 import (
 	"github.com/gobuffalo/buffalo"
-	"github.com/wyntre/rpg_api/actions"
+	"github.com/danigunawan/rpg-api/actions"
 )
 
 func init() {

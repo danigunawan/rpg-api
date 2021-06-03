@@ -8,7 +8,7 @@ import (
 	"github.com/gobuffalo/pop/v5"
 	"github.com/gofrs/uuid"
 	"github.com/pkg/errors"
-	"github.com/wyntre/rpg_api/models"
+	"github.com/danigunawan/rpg-api/models"
 	"net/http"
 )
 

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/wyntre/rpg_api/actions"
+	"github.com/danigunawan/rpg-api/actions"
 )
 
 // main is the starting point for your Buffalo application.

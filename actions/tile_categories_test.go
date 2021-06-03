@@ -1,7 +1,7 @@
 package actions
 
 import (
-	"github.com/wyntre/rpg_api/models"
+	"github.com/danigunawan/rpg-api/models"
 	"net/http"
 )
 

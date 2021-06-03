@@ -2,7 +2,7 @@ package grifts
 
 import (
 	"github.com/markbates/grift/grift"
-	"github.com/wyntre/rpg_api/models"
+	"github.com/danigunawan/rpg-api/models"
 )
 
 var _ = grift.Namespace("db", func() {

@@ -13,7 +13,7 @@ import (
 	"github.com/gobuffalo/mw-tokenauth"
 	"github.com/gobuffalo/x/sessions"
 	"github.com/rs/cors"
-	"github.com/wyntre/rpg_api/models"
+	"github.com/danigunawan/rpg-api/models"
 )
 
 // ENV is used to help switch settings based on where the

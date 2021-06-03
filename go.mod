@@ -1,4 +1,4 @@
-module github.com/wyntre/rpg_api
+// module github.com/danigunawan/rpg-api/
 
 go 1.13
 
@@ -36,3 +36,5 @@ require (
 	golang.org/x/sys v0.0.0-20200523222454-059865788121 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
+
+module github.com/Danigunawan/rpg-api
